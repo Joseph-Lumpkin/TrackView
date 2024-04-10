@@ -1,7 +1,7 @@
 # TrackView
 
 This sample project demonstrates the use of path data to draw custom views at
-runtime. These objects can then have their path data extracted and manipulated
+runtime. These views can then have their path data extracted and manipulated
 to support things like complex animations.
 
 A sample usage would be to replace the code in the TrackView::drawTrack(),
